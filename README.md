@@ -26,7 +26,7 @@ ttt2-Deathgrip
 
 ---
 
-TTT2-deathgrip is a addin for the ttt2 gamemode in Garry's Modmade by the same guys. This is just my own personal fork of the original addon.
+TTT2-deathgrip is a addon for the ttt2 gamemode in Garry's Mod made by the same guys. This is just my own personal fork of the original addon.
 
 ## Features
 
