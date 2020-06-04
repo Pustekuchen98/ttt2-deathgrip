@@ -20,15 +20,15 @@ ttt2-Deathgrip
 
 ---
 
-[**Documentation**](https://bundabrg.github.io/PortalNetwork/)
+[**Documentation**](https://Pustekuchen98.github.io/ttt2-deathgrip/)
 
-[**Source Code**](https://github.com/bundabrg/PortalNetwork/)
+[**Source Code**](https://github.com/Pustekuchen98/ttt2-deathgrip/)
 
 ---
 
 TTT2-deathgrip is a addin for the ttt2 gamemode in Garry's Modmade by the same guys. This is just my own personal fork of the original addon.
 
-##Features
+## Features
 
 * 1
 
