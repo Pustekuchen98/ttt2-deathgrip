@@ -1,5 +1,6 @@
 ttt2-Deathgrip
-===
+![Logo](https://bundabrg.github.io/PortalNetwork/img/title.png)
+
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GitHub release](https://img.shields.io/github/release/Pustekuchen98/ttt2-deathgrip)](https://GitHub.com/Pustekuchen98/ttt2-deathgrip/releases/)
 [![GitHub commits](https://img.shields.io/github/commits-since/Pustekuchen98/ttt2-deathgrip/latest)](https://GitHub.com/Pustekuchen98/ttt2-deathgrip/commit/)
@@ -15,4 +16,26 @@ ttt2-Deathgrip
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Pustekuchen98/ttt2-deathgrip)](https://GitHub.com/Pustekuchen98/ttt2-deathgrip/pull/)
 [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1687737761?color=000000&logo=steam&logoColor=ffffff&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687737761)
 [![Steam Downloads](https://img.shields.io/steam/downloads/1687737761?color=000000&logo=steam&logoColor=ffffff&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687737761) 
+
+
+---
+
+[**Documentation**](https://bundabrg.github.io/PortalNetwork/)
+
+[**Source Code**](https://github.com/bundabrg/PortalNetwork/)
+
+---
+
+TTT2-deathgrip is a addin for the ttt2 gamemode in Garry's Modmade by the same guys. This is just my own personal fork of the original addon.
+
+##Features
+
+* 1
+
+* 2
+
+* 3
+
+* 4
+
 
